@@ -1,5 +1,5 @@
 # basic-calculator
-A basic calculator whic can be used for addition, subtraction, division &amp; multiplication.
+A basic calculator whic can be used for addition, subtraction, division & multiplication.
 
 Code:-
 num1=float(input("enter the first number:"))
